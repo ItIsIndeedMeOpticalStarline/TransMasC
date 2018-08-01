@@ -1,2 +1,5 @@
 # doom2_master_levels
-Combines the Mater levels for Doom 2 into a single WAD.
+The Mater levels for Doom 2 are usually distributed as 20 separate WAD files.
+
+This python script combines them into one single WAD.
+
