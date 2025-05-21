@@ -16,4 +16,4 @@ REMARK: commands in square brackets indicate an optional argument.
 
 python TransMasC.py [--help] [--master-path] [--no-umapinfo]
 
-The result will be saved in a file called The Master Levels for Doom II.wad.
+The result will be saved in a file called The Master Levels.wad.
